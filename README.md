@@ -9,6 +9,6 @@
   set virtual environment and install requiered packages using command
   
     # pip install -r requirements.txt
-  open project directory from terminal or powershell and run server usin command
+  open project directory from terminal or powershell and run server using command
   
     # uvicorn main:app --reload
